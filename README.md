@@ -108,5 +108,5 @@
 - Очень крупным шрифтом
 
 Пояснения
-- [en wiki](https://en.wikipedia.org/wiki/Emoticons_(Unicode_block\))
+- <a href="https://en.wikipedia.org/wiki/Emoticons_(Unicode_block)">Английская wikipedia</a>
 - [unicode.org](https://www.unicode.org/charts/PDF/U1F600.pdf)
